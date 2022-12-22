@@ -2,7 +2,7 @@
 - 👀 I’m interested in API testing 
 - 🌱 I’m currently learning CI/CD Pipeline
 - 💞️ I’m looking to collaborate More on Auromation 
-- 📫 How to reach me @baburao.adkane27@gmail.com OR 9766862702
+- 📫 How to reach me @bgadkane@gmail.com OR 9309732510
 
 <!---
 adkaneb/adkaneb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
